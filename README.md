@@ -1,4 +1,4 @@
-# ICMP Flood DoS Incident Report Analysis Using the NIST Cybersecurity Framework
+# ICMP Flood DoS Incident Report Analysis using the NIST Cybersecurity Framework
 
 This repository contains my security incident report analysis using the NIST Cybersecurity Framework (CSF). The activity focuses on analysing a denial-of-service (DoS) attack, identifying security risks, and proposing measures to improve the organisation's network security.
 
